@@ -6,7 +6,7 @@ ECHO #                                              #
 ECHO ################################################
 C:
 CD\
-CD\IMENFS
-C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm /unregister c:\imenfs\nfse.dll
+CD\IMENFSE
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm /unregister c:\imenfse\nfse.dll
 
 pause
